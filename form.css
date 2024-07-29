@@ -1,0 +1,18 @@
+.FormContainer{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+input{
+    width:300px;
+    height:30px;
+    margin-bottom:30px;
+}
+
+p{
+    color:red;
+}
